@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Destacadas</title>
+        <link>https://elpais.com/ultimas-noticias/</link>
+        <description>Las noticias más relevantes y recientes del día.</description>
+        <language>es</language>
+        <lastBuildDate>Sun, 08 Dec 2024 20:00:00 GMT</lastBuildDate>
+
+        <!-- Primera noticia -->
+        <item>
+            <title>Los rebeldes de Siria derrocan al régimen de El Asad tras 13 años de guerra</title>
+            <link>https://www.noticiasmiciudad.com/internacional/rebeldes-derrocan-el-asad</link>
+            <description>Después de más de una década de conflicto, el régimen de Bashar al Asad cae y el dirigente huye de Damasco en avión.</description>
+            <pubDate>Sun, 08 Dec 2024 10:12:00 GMT</pubDate>
+            <guid>https://www.noticiasmiciudad.com/internacional/rebeldes-derrocan-el-asad</guid>
+            <category>Internacional</category>
+        </item>
+
+        <!-- Segunda noticia -->
+        <item>
+            <title>El barrio de las 3.000 viviendas: el “trastero” de Sevilla que cada año está peor</title>
+            <link>https://www.noticiasmiciudad.com/sociedad/3000-viviendas-sevilla</link>
+            <description>El histórico barrio sevillano enfrenta más problemas sociales y de infraestructura, empeorando su situación año tras año.</description>
+            <pubDate>Sun, 08 Dec 2024 05:40:00 GMT</pubDate>
+            <guid>https://www.noticiasmiciudad.com/sociedad/3000-viviendas-sevilla</guid>
+            <category>Sociedad</category>
+        </item>
+
+        <!-- Tercera noticia -->
+        <item>
+            <title>La Aemet activa el aviso rojo por nieve en Aragón, Asturias, Castilla y León, Cataluña y Navarra</title>
+            <link>https://www.noticiasmiciudad.com/clima/aviso-rojo-nieve</link>
+            <description>Fuertes nevadas obligan a activar el aviso rojo en varias comunidades del norte de España debido a condiciones extremas.</description>
+            <pubDate>Sun, 08 Dec 2024 11:13:00 GMT</pubDate>
+            <guid>https://www.noticiasmiciudad.com/clima/aviso-rojo-nieve</guid>
+            <category>Clima</category>
+        </item>
+
+    </channel>
+</rss>
